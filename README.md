@@ -1,4 +1,4 @@
-so basically I fucked a dorito bag and now I'm here
+so basically I ate a dorito bag and now I'm here
 
 I like Doritos
 
