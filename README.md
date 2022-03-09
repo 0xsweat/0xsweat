@@ -4,4 +4,4 @@ I like Doritos
 
 ![](https://komarev.com/ghpvc/?username=0xsweat&label=PROFILE+VIEWS)
 
-https://github-profile-trophy.vercel.app/?0xsweat=ryo-ma&theme=radical
+https://github-profile-trophy.vercel.app/?username=0xsweat&theme=radical
