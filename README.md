@@ -6,4 +6,6 @@ I like Doritos
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xsweat&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xsweat)](https://github.com/anuraghazra/github-readme-stats)
+
 $6$Kurtain$mQGtMbloHVMENv7fUw14a1EA5m2q83o4Lm7fw7aPgYnOWFPWdB9.MYl/fJHcrGxrJz/jnI1jkxD.pWSWfFkwR1
