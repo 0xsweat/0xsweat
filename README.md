@@ -7,5 +7,5 @@ I like Doritos
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xsweat&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ![Codewars](https://github.r2v.ch/codewars?user=0xsweat)
 <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xsweat.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xsweat.png" alt="TryHackMe"><br>
 $6$Kurtain$mQGtMbloHVMENv7fUw14a1EA5m2q83o4Lm7fw7aPgYnOWFPWdB9.MYl/fJHcrGxrJz/jnI1jkxD.pWSWfFkwR1
